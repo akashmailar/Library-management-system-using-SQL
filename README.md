@@ -420,13 +420,13 @@ HAVING COUNT(*) > 2;
 
 ## Reports
 
-- **Database Schema**: Detailed table structures and relationships.
-- **Data Analysis**: Insights into book categories, employee salaries, member registration trends, and issued books.
-- **Summary Reports**: Aggregated data on high-demand books and employee performance.
+-- **Database Schema**: Detailed table structures and relationships.
+-- **Data Analysis**: Insights into book categories, employee salaries, member registration trends, and issued books.
+-- **Summary Reports**: Aggregated data on high-demand books and employee performance.
 
 ## Conclusion
 
-This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+-- This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation -- for data management and analysis.
 
 
-Thank you !
+-- Thank you !
