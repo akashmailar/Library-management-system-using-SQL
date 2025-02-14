@@ -1,5 +1,7 @@
 # Library Management System Project using SQL
 
+[Library Management System](https://github.com/akashmailar/Library-management-system-using-SQL/blob/main/library%20management%20system.jpg)
+
 ## Project Overview
 
 **Project Title**: Library Management System  
